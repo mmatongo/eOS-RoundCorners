@@ -1,7 +1,12 @@
-<li></li>
 # eOS-RoundCorners
 <img src="https://cdn-images-1.medium.com/max/1200/1*AWl7NzaMXi06f1-c_IVYdA.png" alt="Logo" align="right" />
 ======
+
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
 eOS-RoundCorners is the classic elementary OS theme modded to be have rounder corners similar to Mac OS.
 Might work on GTK3 and GTK2 based DE.
