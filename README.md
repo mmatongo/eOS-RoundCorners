@@ -1,2 +1,43 @@
 # eOS-RoundCorners
-This is a repository for the classic elementary OS theme modded to be sleeker, faster and have rounder corners similar to mac OS
+<img src="https://github.com/elementary/brand/blob/master/16x16.png" alt="Logo" align="right" /> eOS-RoundCorners Theme
+======
+
+eOS-RoundCorners is the classic elementary OS theme modded to be have rounder corners similar to Mac OS.
+Might work on GTK3 and GTK2 based DE.
+
+
+This theme is simply a modified version of the Elementary Os stock theme. Thanks EOS
+
+## Info
+
+### GTK+ 3.20 or later
+
+### GTK2 engines requirment
+- GTK2 engine Murrine 0.98.1.1 or later.
+- GTK2 pixbuf engine or the gtk(2)-engines package.
+
+Fedora/RedHat distros:
+
+    yum install gtk-murrine-engine gtk2-engines
+
+Ubuntu/Mint/Debian distros:
+
+    sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf
+
+ArchLinux:
+
+    pacman -S gtk-engine-murrine gtk-engines
+
+Other:
+Search for the engines in your distributions repository or install the engines from source.
+## Install Or Uninstall
+
+
+    Clone/Download the repo and copy the resulting file to your themes directory.
+    
+    This is commonly /home/username/.themes.
+    
+    If .themes folder is not present create it.
+    
+    Check your theme options, it should be there.
+
