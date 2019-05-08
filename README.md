@@ -1,5 +1,5 @@
 # eOS-RoundCorners
-<img src="https://github.com/elementary/brand/blob/master/16x16.png" alt="Logo" align="right" /> eOS-RoundCorners Theme
+<img src="https://github.com/elementary/brand/blob/master/16x16.png" alt="Logo" align="right" />
 ======
 
 eOS-RoundCorners is the classic elementary OS theme modded to be have rounder corners similar to Mac OS.
