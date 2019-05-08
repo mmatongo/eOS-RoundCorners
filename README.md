@@ -3,11 +3,11 @@
 ======
 
 
-<li>eOS-RoundCorners is the classic elementary OS theme modded to be have rounder corners similar to Mac OS.
-Might work on GTK3 and GTK2 based DE.</li>
+eOS-RoundCorners is the classic elementary OS theme modded to be have rounder corners similar to Mac OS.
+Might work on GTK3 and GTK2 based DE.
 
 
-<li>This theme is simply a modified version of the Elementary Os stock theme. Thanks EOS</li>
+This theme is simply a modified version of the Elementary Os stock theme. Thanks EOS
 
 ## Info
 
